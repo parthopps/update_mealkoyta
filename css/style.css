@@ -44,7 +44,7 @@ ul li{
     margin: 0 auto;
     background-color: #fff;
     box-shadow: 3px 6px 15px;
-	border-radius:7%;
+	border-radius:1%;
 }
 .from-box{
 	padding:10px 25px;
@@ -53,9 +53,16 @@ ul li{
 }
 .form-group{
 	margin: 10px 0px;
+	padding-left:30px;
 }
 .form-control{
-	padding:25px;
+	width: 94%;
+    height: 50px;
+    margin: 5px 0px;
+    border: 1px solid #eee;
+    padding: 0px 10px;
+    font-size: 14px;
+	
 }
 .btn-primary{
 	margin-top:20px;
